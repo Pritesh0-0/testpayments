@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from './image/alogo.png'
+// import pic from './image/alogo.png'
 
 
 export default function Paymentspage() {
