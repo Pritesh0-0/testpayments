@@ -60,7 +60,7 @@ export default function Paymentspage() {
                     <label for="ZIPCode">ZIP/Postal code: </label>
                     <div className="input-container">
                         <input id="ZIPCode" className="form-control" type="text" maxlength="10"></input>
-                        <a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="Enter the ZIP/Postal code for your credit card billing address."><i className="fa fa-question-circle"></i></a>
+                        <a href='' tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-placement="left" data-content="Enter the ZIP/Postal code for your credit card billing address."><i className="fa fa-question-circle"></i></a>
                     </div>
                 </div>
                 <button id="PayButton" className="btn btn-block btn-success submit-button" type="submit">
